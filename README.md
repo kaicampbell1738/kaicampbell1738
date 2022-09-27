@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kaicampbell1738
 - 👀 I’m interested in ... Coding, Video Games, Exercise, etc.
 - 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ... tbd
 - 📫 How to reach me ... kaicampbell1738@gmail.com
 
 <!---
