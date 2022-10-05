@@ -1,3 +1,8 @@
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="500"/>
+</div>
+
+
 - 👋 Hi, I’m @kaicampbell1738
 - 👀 I’m interested in ... Coding, Video Games, Exercise, etc.
 - 🌱 I’m currently learning ... Javascript
