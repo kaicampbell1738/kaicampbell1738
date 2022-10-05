@@ -1,15 +1,8 @@
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="400"/>
 </div>
-
-
-- 👋 Hi, I’m @kaicampbell1738
-- 👀 I’m interested in ... Coding, Video Games, Exercise, etc.
-- 🌱 I’m currently learning ... Javascript
-- 📫 How to reach me ... kaicampbell1738@gmail.com
-- ✨ University California, Irvine. Expected Graduation 2024.
-
-<!---
-kaicampbell1738/kaicampbell1738 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://komarev.com/ghpvc/?username=kaicampbell1738&style=flat-square&color=blue" allign="center" alt=""/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
