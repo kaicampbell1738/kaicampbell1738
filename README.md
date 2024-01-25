@@ -9,7 +9,7 @@
 ---
 
 About Me :
-- 👀 I’m interested in ... Coding, Video Games, Exercise, etc.
+- 👀 I’m interested in ... Coding, Boba, Exercise, etc.
 - 🌱 I’m currently learning ... Javascript
 - 📫 How to reach me ... kaicampbell1738@gmail.com
 - ✨ University California, Irvine. Expected Graduation 2024.
