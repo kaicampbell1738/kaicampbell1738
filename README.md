@@ -12,7 +12,7 @@ About Me :
 - 👀 I’m interested in ... Coding, Boba, Exercise, etc.
 - 🌱 I’m currently learning ... Langchain
 - 📫 How to reach me ... kaicampbell1738@gmail.com
-- ✨ University California, Irvine. Expected Graduation 2024.
+- ✨ University California, Irvine. September 2020 - June 2024.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
